@@ -1,7 +1,7 @@
 {
     "name": "isholao/middleware",
     "type": "library",
-    "description": "PHP validator",
+    "description": "PHP7.1=> Middleware Implementation",
     "homepage": "https://github.com/isholao/middleware",
     "keywords": ["middleware"],
     "license": "BSD-3-Clause",
